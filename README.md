@@ -9,4 +9,5 @@ Additional features:
 - Gui modernized
 - ...
 
-Based on https://sourceforge.net/projects/gstm/ 
+![screenshot_20190115_103309](https://user-images.githubusercontent.com/6892180/51173346-2626da00-18ad-11e9-9ea0-d176854e82cf.png)
+
